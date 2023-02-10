@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Welcome Reader/Visiter/Recruiter 👋 I am Ganesh</h1>
+<h1 align="center"> Welcome Reader/Visiter/Recruiter 👋 I am Manoj</h1>
 <!--   <img align="right" alt="GIF" src="https://github.com/ganesh1151/ganesh1151/blob/main/coding.gif" width="360"/> -->
   <img align="right" alt="GIF" src="https://github.com/ganesh1151/ganesh1151/blob/main/coding.gif" width="360" height="400"/>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepF02&label=Profile%20views&color=0e75b6&style=flat" alt="my profile views" /></p> -->
