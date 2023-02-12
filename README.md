@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 
 ## Some info on me<br>
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Ganesh Chavan from India.
+- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Manoj Tiwari from India.
 - 🎓 I’m currently pursuing my BE in Computer Engineering from MET's Institute of Engineering , Adgaon , Nashik India.
 - 🌱 I’m currently MEVN Stack developer, learning different full stack technologies and practicing competitive programming.
 - 👯 I always look forward for collaborating in exciting Web Development Projects/Open-source Projects.
 - 💬 Ask me about Full Stack technologies, Competitive programming and life in general.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ganesh-chavan1151/).
+
 
 
 
@@ -65,16 +65,3 @@ Here are some ideas to get you started:
 ***************
 
 
-***************
-## Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/ganesh-chavan1151/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ganesh Chavan" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100016071792182" target="_blank"><img align="center" src="https://github.com/ganesh1151/ganesh1151/blob/main/Facebook-logo.png" alt="Ganesh Chavan" height="30" width="40" /></a>
- <!--<a href=https://www.instagram.com/ganesh_1151/" target="_blank"><img align="center" src="https://https://github.com/ganesh1151/ganesh1151/blob/main/instagram.png" alt="Ganesh Chavan" height="30" width="40" /></a>
--->
-</p>
-
-
-⭐️From [ganesh1151](https://github.com/ganesh1151)⭐️
-
-<h3 align="center"> Thanks for reading.. Go ahead and check some of my recent repo's.</h3>
